@@ -4,9 +4,12 @@ body {
   margin: 0 auto;
 
   background: #ffffff;
+  box-sizing: border-box;
   box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
 }
+
+/** HEADER  **/
 
 header {
   padding-left: 24px;
@@ -28,10 +31,7 @@ header {
   color: #333333;
 }
 
-.main {
-  display: flex;
-  flex-direction: column;
-}
+/** MAIN  **/
 
 .section__image {
   width: 286.83px;
@@ -65,6 +65,7 @@ header {
 }
 
 .description__text {
+  display: block;
   width: 328px;
   height: 81px;
   margin-top: 29px;
@@ -84,6 +85,7 @@ header {
 .section__button {
   margin: 67px 135px 0px 24px;
 }
+
 .section__button .button {
   width: 216px;
   height: 68px;
@@ -111,4 +113,25 @@ header {
   text-transform: uppercase;
 
   color: #ffffff;
+}
+
+/** FOOTER **/
+
+.footer {
+  margin: 96px 74px 42px 75px;
+}
+
+.footer__text {
+  width: 226px;
+  height: 17px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+
+  /* identical to box height */
+
+  color: #333333;
 }
