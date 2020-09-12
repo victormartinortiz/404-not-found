@@ -36,7 +36,13 @@
 
 ## Overview
 
+<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/15972296/93005907-6d56e980-f52c-11ea-9299-d0acc3a1cae9.png" width="700" height="500"> | <img src="https://user-images.githubusercontent.com/15972296/93005905-64661800-f52c-11ea-99f3-52bd26717faa.png" height="500">
+=======
+![screenshot-mobile](https://user-images.githubusercontent.com/15972296/93005905-64661800-f52c-11ea-99f3-52bd26717faa.png)
+![screenshot-desktop](https://user-images.githubusercontent.com/15972296/93005907-6d56e980-f52c-11ea-9299-d0acc3a1cae9.png)
+
+>>>>>>> 71d7ef93e5e1e8c9d0ac4091d326a54e381428a8
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -69,6 +75,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
+<<<<<<< HEAD
 - Website [victormartin.com.ar](https://www.victormartin.com.ar)
 - GitHub [@victormartinortiz](https://github.com/victormartinortiz)
 - Twitter [@OrtizVictorM](https://twitter.com/OrtizVictorM)
+=======
+- Website [victormartin.com.ar](https://{www.victormartin.com.ar})
+- GitHub [@victormartinortiz](https://{github.com/victormartinortiz})
+- Twitter [@OrtizVictorM](https://{twitter.com/OrtizVictorM})
+>>>>>>> 71d7ef93e5e1e8c9d0ac4091d326a54e381428a8
