@@ -17,6 +17,7 @@ header {
 }
 
 .header__title {
+  display: inherit;
   width: 133px;
   height: 25px;
 
@@ -122,6 +123,7 @@ header {
 }
 
 .footer__text {
+  display: inherit;
   width: 226px;
   height: 17px;
 
