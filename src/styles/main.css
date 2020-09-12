@@ -87,7 +87,7 @@ header {
   margin: 67px 135px 0px 24px;
 }
 
-.section__button .button {
+.button {
   width: 216px;
   height: 68px;
   outline-style: none;
@@ -96,6 +96,10 @@ header {
   /* Gray 1 */
 
   background: #333333;
+}
+
+button:active {
+  opacity: 0.8;
 }
 
 .button__text {
