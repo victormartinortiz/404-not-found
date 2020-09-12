@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 not found page}</h1>
+<h1 align="center">404 not found page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-delta.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -36,7 +36,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot-mobile](https://user-images.githubusercontent.com/15972296/93005905-64661800-f52c-11ea-99f3-52bd26717faa.png)
+![screenshot-desktop](https://user-images.githubusercontent.com/15972296/93005907-6d56e980-f52c-11ea-9299-d0acc3a1cae9.png)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -69,6 +71,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{www.victormartin.com.ar})
-- GitHub [@your-username](https://{github.com/victormartinortiz})
-- Twitter [@your-twitter](https://{twitter.com/OrtizVictorM})
+- Website [victormartin.com.ar](https://{www.victormartin.com.ar})
+- GitHub [@victormartinortiz](https://{github.com/victormartinortiz})
+- Twitter [@OrtizVictorM](https://{twitter.com/OrtizVictorM})
