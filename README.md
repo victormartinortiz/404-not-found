@@ -36,7 +36,7 @@
 
 ## Overview
 
-<img src="https://user-images.githubusercontent.com/15972296/93005907-6d56e980-f52c-11ea-9299-d0acc3a1cae9.png" width="700" height="500"> | <img src="https://user-images.githubusercontent.com/15972296/93005905-64661800-f52c-11ea-99f3-52bd26717faa.png" height="500">
+<img src="https://user-images.githubusercontent.com/15972296/93005907-6d56e980-f52c-11ea-9299-d0acc3a1cae9.png" width="650" height="500"> | <img src="https://user-images.githubusercontent.com/15972296/93005905-64661800-f52c-11ea-99f3-52bd26717faa.png" height="500">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
