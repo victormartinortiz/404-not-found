@@ -1,12 +1,6 @@
 body {
-  width: 375px;
-  height: 949px;
   margin: 0 auto;
-
   background: #ffffff;
-  box-sizing: border-box;
-  box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
-  border-radius: 12px;
 }
 
 /** HEADER  **/
@@ -17,10 +11,6 @@ header {
 }
 
 .header__title {
-  display: inherit;
-  width: 133px;
-  height: 25px;
-
   font-family: Inconsolata;
   font-style: normal;
   font-weight: bold;
@@ -33,11 +23,16 @@ header {
 }
 
 /** MAIN  **/
+.main {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+}
 
 .section__image {
   width: 286.83px;
   height: 238px;
-  margin: 64px 44.17px 0px 44px;
+  padding: 64px 44.17px 0px 44px;
 }
 
 .image--not-found {
@@ -46,13 +41,12 @@ header {
 }
 
 .section__description {
-  margin: 60px 1px 0px 23px;
+  display: flex;
+  flex-direction: column;
+  padding: 60px 6px 0px 23px;
 }
 
 .description__title {
-  width: 350px;
-  height: 142px;
-
   font-family: Space Mono;
   font-style: normal;
   font-weight: bold;
@@ -66,9 +60,7 @@ header {
 }
 
 .description__text {
-  display: block;
-  width: 328px;
-  height: 81px;
+  width: 290px;
   margin-top: 29px;
 
   font-family: Space Mono;
@@ -84,7 +76,8 @@ header {
 }
 
 .section__button {
-  margin: 67px 135px 0px 24px;
+  padding: 67px 0px 0px 24px;
+  justify-self: baseline;
 }
 
 .button {
@@ -103,9 +96,7 @@ button:active {
 }
 
 .button__text {
-  width: 130px;
-  height: 21px;
-  padding: 24px 43px 23px 43px;
+  /*padding: 24px 43px 23px 43px;*/
 
   font-family: Space Mono;
   font-style: normal;
@@ -123,14 +114,12 @@ button:active {
 /** FOOTER **/
 
 .footer {
-  margin: 96px 74px 42px 75px;
+  padding-top: 96px;
+  padding-bottom: 75px;
+  text-align: center;
 }
 
 .footer__text {
-  display: inherit;
-  width: 226px;
-  height: 17px;
-
   font-family: Montserrat;
   font-style: normal;
   font-weight: 600;
